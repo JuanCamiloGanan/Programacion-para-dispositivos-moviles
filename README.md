@@ -7,7 +7,7 @@ En este repositorio podra encontrar los diferentes ejercicios realizados en clas
 Dando click en cada subtitulo que encontrará acontinuación:
 
 
-## Acknowledgements
+## Links de acceso
 
  - [Ejercicio Pokemons](https://github.com/JuanCamiloGanan/Programacion-para-dispositivos-moviles/tree/main/Ejercicio%20pokemos)
  - [Ejercicio Notas](https://github.com/JuanCamiloGanan/Programacion-para-dispositivos-moviles/tree/main/Ejercicio%20notas)
