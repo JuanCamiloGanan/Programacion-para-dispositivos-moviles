@@ -17,6 +17,14 @@ class MyApp extends StatelessWidget {
 
   const MyApp({super.key, required this.getPokemonUseCase});
 
+  // 🔧 Constructor adicional SOLO para testing
+  factory MyApp.test() {
+    final dio = Dio();
+    final repository = PokemonRepository(dio);
+    final useCase = GetPokemonUseCase(repository);
+    return MyApp(getPokemonUseCase: useCase);
+  }
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
