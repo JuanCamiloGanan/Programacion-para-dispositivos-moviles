@@ -2,9 +2,9 @@
 
 ## Taller Android Studio
 
-En esta carpeta podrá enontrar los ejercicios propuestos en en el taller, además de las preguntas a responder:
+En esta carpeta podrá encontrar los ejercicios propuestos en en el taller, además de las preguntas a responder:
 
-- [Ejercicio 1 - 4]
+- [Ejercicio 1 - 4](https://github.com/JuanCamiloGanan/Programacion-para-dispositivos-moviles/blob/main/Mi%20Primera%20App/app/src/main/java/Ejercicios_1_4.kt)
 
 # Preguntas
 
